@@ -24,7 +24,7 @@ The project follows an end-to-end machine learning pipeline:
 # Evaluation
 Model performance was evaluated and compared to determine the most suitable approach for sleep health prediction.
 
-# TechnologiesUsed
+# Technologies Used
 - Python
 - Pandas
 - NumPy
