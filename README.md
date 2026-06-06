@@ -2,10 +2,10 @@
 
 # Overview
 
-This project investigates the relationship between lifestyle factors and sleep health using multiple machine learning models. The objective is to evaluate the predictive performance of different algorithms in estimating sleep-related outcomes.
+This projectexamine how various lifestyle and health factors affect the quality of sleep using multiple machine learning models. The objective is provide an analytical framework that predicts sleep quality, identifies the major lifestyle and health factors that influence it, and ultimately provides evidence-based recommendations for improving sleep health.
 
 # Dataset
-The dataset includes information related to sleep duration, physical activity, stress levels, occupation, BMI, heart rate, daily habits, and other lifestyle indicators.
+The dataset includes information like demographic variables, sleep metrics and lifestyle behavioral factors and health indicators. It contains 3 variables and 374 unique individuals records. 
 
 # Methodology
 The project follows an end-to-end machine learning pipeline:
@@ -15,11 +15,10 @@ The project follows an end-to-end machine learning pipeline:
 - Model training
 - Performance comparison
 - Models Compared
-- Random Forest
+- Random Forest Classification
 - XGBoost
-- Regression Model
 - Support Vector Regression (SVR)
-- Deep Learning Model
+- Neural Network Residuals
 
 # Evaluation
 Model performance was evaluated and compared to determine the most suitable approach for sleep health prediction.
