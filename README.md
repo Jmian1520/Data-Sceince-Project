@@ -2,7 +2,7 @@
 
 # Overview
 
-This projectexamine how various lifestyle and health factors affect the quality of sleep using multiple machine learning models. The objective is provide an analytical framework that predicts sleep quality, identifies the major lifestyle and health factors that influence it, and ultimately provides evidence-based recommendations for improving sleep health.
+This project examine how various lifestyle and health factors affect the quality of sleep using multiple machine learning models. The objective is provide an analytical framework that predicts sleep quality, identifies the major lifestyle and health factors that influence it, and ultimately provides evidence-based recommendations for improving sleep health.
 
 # Dataset
 The dataset includes information like demographic variables, sleep metrics and lifestyle behavioral factors and health indicators. It contains 3 variables and 374 unique individuals records. 
